@@ -1,0 +1,6 @@
+﻿  Using triplet "x86-windows" from "C:\Users\takey\vcpkg\installed\x86-windows\"
+  The Vcpkg manifest was disabled, but we found a manifest file in \. You may want to enable vcpkg manifests in your properties page or pass /p:VcpkgEnableManifest=true to the msbuild invocation.
+  mado.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+     ライブラリ .\Release/MADO.lib とオブジェクト .\Release/MADO.exp を作成中
+  MADO.vcxproj -> C:\Users\takey\Downloads\dwsdk910\dwsdk910\dwsdk910\PLUGINSPI\sample\ja\MADO\Release\MADO.dll
