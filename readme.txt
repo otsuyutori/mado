@@ -21,7 +21,7 @@ MADO:A DoucWorks plugin
 
 6,動作環境
  Windows10
- Docuworks 8以上がインストールされていること。
+ Docuworks 9以上がインストールされていること。
 
 7,開発環境
  Visual Studio 2019 Community
